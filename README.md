@@ -12,7 +12,7 @@ Generative AI models struggle with reading analog clocks accurately. This projec
 
 1. **📊 Synthetic Dataset Generation**: Creates diverse analog clock images
 2. **🤖 GPT-4o Integration**: Leverages vision capabilities for time reading  
-3. **🔧 Automated Prompt Optimization**: Uses TextGrad-style optimization
+3. **🔧 Automated Prompt Optimization**: TextGrad-inspired optimization system
 4. **📈 Comprehensive Evaluation**: Separate analysis for hours and minutes
 
 ## 🏆 Key Results
@@ -27,7 +27,7 @@ Generative AI models struggle with reading analog clocks accurately. This projec
 
 - **🎯 Analog Clock Focus**: Specialized dataset for analog clock reading challenges
 - **📊 Separated Evaluation**: Independent analysis of hour and minute accuracy
-- **🤖 Automated Optimization**: TextGrad-style prompt improvement system
+- **🤖 Automated Optimization**: TextGrad-inspired prompt improvement system
 - **📈 Detailed Analytics**: Performance analysis with confusion matrices
 - **🔧 Python 3.8 Compatible**: Resolved TextGrad compatibility issues
 
@@ -120,7 +120,7 @@ optimized = {
 
 ## 🔬 Technical Implementation
 
-- **TextGrad Compatibility**: Resolved Python 3.8 type hint issues
+- **TextGrad-Inspired Design**: Custom implementation with Python 3.8 compatibility
 - **Automated Feedback**: GPT-4o generates optimization feedback
 - **Iterative Improvement**: Multi-stage prompt refinement
 - **Performance Tracking**: Real-time optimization monitoring
