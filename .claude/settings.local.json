@@ -20,7 +20,9 @@
       "Bash(grep:*)",
       "Bash(rm:*)",
       "Bash(git reset:*)",
-      "Bash(git init:*)"
+      "Bash(git init:*)",
+      "WebFetch(domain:colab.research.google.com)",
+      "WebFetch(domain:raw.githubusercontent.com)"
     ],
     "deny": []
   }
