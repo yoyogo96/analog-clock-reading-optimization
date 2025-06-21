@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(ls:*)",
+      "Bash(git add:*)",
+      "Bash(gh auth:*)",
+      "Bash(chmod:*)",
+      "Bash(git commit:*)",
+      "Bash(./upload_to_github.sh)",
+      "Bash(gh repo create:*)",
+      "Bash(git remote add:*)",
+      "Bash(git remote remove:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(git config:*)",
+      "Bash(ssh:*)",
+      "Bash(grep:*)",
+      "Bash(rm:*)",
+      "Bash(git reset:*)",
+      "Bash(git init:*)"
+    ],
+    "deny": []
+  }
+}
